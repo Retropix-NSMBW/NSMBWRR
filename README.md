@@ -14,6 +14,18 @@ First off, a little about myself and this mod:
 - This has a webpage! (or will, depending on when you read this). This will be hosted at https://retropix-nsmbw.github.io and will be linked at the bottom of this page.
 - My name is pronounced "Retro Picks". I know already many people may say it as "Ruh Tropics" or "Re Tropics".
 
+# The Project.
+
+This is a big project! This will be an all-inclusive mod of New Super Mario Bros. Wii - Containing ALL mainline Super Mario Bros. Games, Fangames and more! Game list and creators below. Confirmed games have "^" at the end of them, while games unconfirmed have "<" and games that are being considered have ">" and a reason why.
+
+Nintendo
+
+Super Mario Bros
+Super Mario Bros 2 JPN (lost levels)
+Super Mario Bros 2 WRLD
+Super Mario Bros 3
+Super Mario World WRLD / Super Mario Bros 4 JPN
+
 # Links
 
 Discord - https://discord.gg/8CyNnm3Xx4 (will work forever, just started server, no vanity)
